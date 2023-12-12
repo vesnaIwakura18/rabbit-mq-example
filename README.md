@@ -9,6 +9,7 @@ To get the Node server running locally:
 
 ## Dependencies
 
+- [typescript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output
 - [expressjs](https://github.com/expressjs/express) - The server for handling and routing HTTP requests
 - [amqp](https://www.rabbitmq.com/getstarted.html) - Advanced Message Queuing Protocol
 
