@@ -5,7 +5,7 @@ To get the Node server running locally:
 - Clone this repo `git clone https://github.com/vesnaIwakura18/test-task.git`
 - `npm install` to install all required dependencies
 - Make sure that your Docker application is running
-- run `docker-compose up` in test-task directory
+- run `docker-compose up` in core directory
 
 ## Dependencies
 
