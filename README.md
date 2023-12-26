@@ -3,7 +3,7 @@
 To get the Node server running locally:
 
 - Clone the repo `https://github.com/vesnaIwakura18/rabbit-mq-example.git`
-- `npm install` to install all required dependencies
+- `npm install` to install all required dependencies (make sure that Node.js is installed on your machine)
 - Make sure that your Docker application is running
 - run `docker-compose up` in the core directory
 
